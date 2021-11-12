@@ -14983,6 +14983,19 @@
    "ja": "タスク"
  },
  {
+   "Key": "CanTransport",
+   "en": "Può trasportare",
+   "es": "Puede transportar",
+   "zhCN": "可以运输",
+   "fr": "Peut transporter",
+   "de": "Kann transportieren",
+   "pt": "Pode transportar.",
+   "ru": "Может транспортировать",
+   "pt-br": "",
+   "zhTW": "可以運輸",
+   "ja": "輸送できます"
+ },
+ {
    "Key": "MenuFunctionNewGame",
    "en": "Nuovo gioco",
    "es": "Nuevo juego",
@@ -21875,7 +21888,33 @@
    "ru": "Используйте кнопки в правом нижнем углу для переключения между слоями. Используйте {0} или [{1}] снова, когда закончите, чтобы вернуться к нормальному представлению.",
    "pt-br": "",
    "zhTW": "使用右下方的按鈕在圖層之間切換。完成後再次使用{0}或[{1}]返回正常視圖。",
-   "ja": "右下のボタンを使用して、レイヤー間を切り替えます。通常のビューに戻ることが完了したら{0}または[{1}]を使用します。"
+   "ja": "右下のボタンを使用して、レイヤー間を切り替えます。通常のビューに戻ることが完了したら{0}または[{1}]を使用します。"															
+ },
+ {
+   "Key": "TutorialStatePauseGame_Desc",
+   "en": "Puoi mettere in pausa il gioco in qualsiasi momento. Ciò potrebbe rendere più semplice la costruzione o la selezione di unità di lavoratori che si muovono.",
+   "es": "Puedes pausar el juego en cualquier momento. Esto puede hacer que sea más fácil de construir, o para seleccionar unidades de trabajadores que se mueven alrededor.",
+   "zhCN": "您可以随时暂停游戏。这可能使构建更容易，或者选择正在移动的工作单元。",
+   "fr": "Vous pouvez mettre en pause le jeu à tout moment. Cela peut vous faciliter la construction ou vous permettre de sélectionner plus facilement les unités de travailleurs en mouvement.",
+   "de": "Sie können das Spiel jederzeit pausieren. Dies vereinfacht das Bauen oder das Auswählen von Arbeitern, die sich bewegen.",
+   "pt": "Você pode pausar o jogo a qualquer momento. Isso pode facilitar a construção ou para selecionar unidades de trabalho que estão se movimentando.",
+   "ru": "Вы можете приостановить игру в любое время. Это может облегчить сборку, или выбрать рабочие единицы, которые движутся вокруг.",
+   "pt-br": "",
+   "zhTW": "您可以隨時暫停遊戲。這可能使構建更容易，或者選擇正在移動的工作單元。",
+   "ja": "あなたはいつでもゲームを一時停止することができます。これにより、移動しやすく、移動しているワーカー単位を選択することが簡単になります。"
+ },
+ {
+   "Key": "TutorialStepUsePauseButton",
+   "en": "Utilizzare il pulsante [{0}] per alternare tra In pausa e Non in pausa.",
+   "es": "Use el botón [{0}] para alternar entre pausados ​​y sin gasta.",
+   "zhCN": "使用[{0}]按钮在暂停和下载之间切换。",
+   "fr": "Utilisez la touche [{0}] pour basculer entre la pause et la reprise.",
+   "de": "Drücken Sie die [{0}] Taste, um zu pausieren oder fortzusetzen.",
+   "pt": "Use o botão [{0}] para alternar entre pausado e sem remoção.",
+   "ru": "Используйте кнопку [{0}], чтобы переключаться между приостановленным и непроходимым.",
+   "pt-br": "",
+   "zhTW": "使用[{0}]按鈕在暫停和下載之間切換。",
+   "ja": "[{0}]ボタンを使用して、一時停止と解除を切り替えます。"
  },
  {
    "Key": "ProTipTerrainTools",
