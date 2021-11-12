@@ -9175,7 +9175,7 @@
  },
  {
    "Key": "ItemLabelPlank",
-   "en": "Tavole",
+   "en": "Assi",
    "es": "Tablas",
    "zhCN": "木板",
    "fr": "Planches",
@@ -19832,7 +19832,7 @@
  },
  {
    "Key": "TutorialStateSelectLumberMillRecipe",
-   "en": "Produzione di tavole",
+   "en": "Produzione di assi",
    "es": "Asignar Receta para Tablas",
    "zhCN": "分配木板配方",
    "fr": "Assigner une recette de Planches",
@@ -19844,7 +19844,7 @@
  },
  {
    "Key": "TutorialStateBringWoodToLumberMill",
-   "en": "Costruisci tavola",
+   "en": "Costruisci Asse",
    "es": "Suministrar Aserradero",
    "zhCN": "为锯木厂供货",
    "fr": "Fabriquer une planche",
@@ -19856,7 +19856,7 @@
  },
  {
    "Key": "TutorialStateCollectPlanks",
-   "en": "Raccogli tavole",
+   "en": "Raccogli assi",
    "es": "Recolectar Tablas",
    "zhCN": "收集木板",
    "fr": "Récupérer des Planches",
@@ -20528,7 +20528,7 @@
  },
  {
    "Key": "TutorialStateBuildLumberMill_Desc",
-   "en": "Le [segherie] trasformano il [Legno] in [Tavole], che ti serviranno per molti edifici e potenziamenti.",
+   "en": "Le [segherie] trasformano il [Legno] in [Assi], che ti serviranno per molti edifici e potenziamenti.",
    "es": "Las [Serrerias] convierten [Madera] en [Tablas], que precisaras para varios edificios y mejoras.",
    "zhCN": "[锯木厂]可以将[木头]切为[木板]，后者是很多建筑以及升级所需的材料。",
    "fr": "Les [Scieries] transforment le [Bois] en [Planches], vous en aurez besoin pour de nombreux bâtiments et améliorations.",
