@@ -12390,6 +12390,45 @@
    "zhTW": "有可以分配城鎮特產"
  },
  {
+   "Key": "EntityAlertTypeAgentWaitingForPickup",
+   "en": "In attesa del ritiro dell'oggetto",
+   "es": "Esperando un artículo para recoger",
+   "zhCN": "等待物品拿起",
+   "fr": "En attente d'un objet à ramasser",
+   "de": "Warten auf Artikel zum Abholen",
+   "pt": "Esperando por item para pegar",
+   "ru": "Ожидание предмета, чтобы забрать",
+   "pt-br": "",
+   "zhTW": "等待撿起物品",
+   "ja": "運ぶアイテムを待っています"
+ },
+ {
+   "Key": "EntityAlertTypeAgentWaitingForDropoff",
+   "en": "In attesa di spazio per lasciare l'oggetto",
+   "es": "Esperando sitio para dejar el artículo",
+   "zhCN": "等待空间下降项目",
+   "fr": "En attente d'une place pour déposer l'objet",
+   "de": "Warten auf den Platz, um den Artikel abzutreten",
+   "pt": "Esperando pelo espaço para deixar o item",
+   "ru": "Ожидание места для выхода",
+   "pt-br": "",
+   "zhTW": "等待空閒放下物品",
+   "ja": "アイテムを置く場所が足りません"
+ },
+ {
+   "Key": "EntityAlertTypeAgentHasNoRoute",
+   "en": "Nessuna rotta verso l'obiettivo",
+   "es": "No hay ruta al objetivo",
+   "zhCN": "没有目标路线",
+   "fr": "Aucun itinéraire vers la cible",
+   "de": "Keine Route zum Ziel",
+   "pt": "Nenhuma rota para alvo",
+   "ru": "Нет маршрута к цели",
+   "pt-br": "",
+   "zhTW": "沒有目標路線",
+   "ja": "目的地までのルートがありません"
+ },
+ {
    "Key": "TooltipProducedBy",
    "en": "Prodotto da:",
    "es": "Producido por:",
