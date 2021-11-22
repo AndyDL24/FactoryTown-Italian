@@ -247,7 +247,7 @@
  },
  {
    "Key": "BehaviorTargetNearest",
-   "en": "più vicino",
+   "en": "piu' vicino",
    "es": "más cercano",
    "zhCN": "最近的设施",
    "fr": "le plus proche",
@@ -523,7 +523,7 @@
  },
  {
    "Key": "InvalidReasonCanNotAfford",
-   "en": "Non puoi permetterti, porta più risorse al centro città o agli edifici di stoccaggio",
+   "en": "Non puoi permetterti, porta piu' risorse al centro città o agli edifici di stoccaggio",
    "es": "No permitido. Trae más recursos a los almacenes o a la base.",
    "zhCN": "资源不足，请向基地或谷仓内存放更多的资源",
    "fr": "Resssources insuffisantes, apportez plus de ressources au Centre-Ville ou aux bâtiments de stockage",
@@ -595,7 +595,7 @@
  },
  {
    "Key": "InvalidReasonNotEnoughPopulation",
-   "en": "Capacità lavoratore insufficiente - Costruisci o fai salire di livello più case",
+   "en": "Capacità lavoratore insufficiente - Costruisci o fai salire di livello piu' case",
    "es": "No hay suficiente capacidad de población. Construye o mejora más casas.",
    "zhCN": "人口上限不足 - 请建造或升级更多的住宅",
    "fr": "Pas assez de capacité de travail - Construisez ou améliorez plus de maisons",
@@ -883,7 +883,7 @@
  },
  {
    "Key": "BuildingDescriptionAirshipDock",
-   "en": "Consente ai dirigibili di trasferire le loro merci molto più rapidamente",
+   "en": "Consente ai dirigibili di trasferire le loro merci molto piu' rapidamente",
    "es": "Los dirigibles permite transferir sus bienes mucho más rápidamente",
    "zhCN": "飞艇可以更迅速地转移多少自己的商品",
    "fr": "Permet aux ballons dirigeables de transférer leurs marchandises beaucoup plus rapidement.",
@@ -1039,7 +1039,7 @@
  },
  {
    "Key": "BuildingDescriptionForge",
-   "en": "Fondi i minerali in oggetti e strumenti più utili",
+   "en": "Fondi i minerali in oggetti e strumenti piu' utili",
    "es": "Funde minerales para crear objetos y minerales más útiles.",
    "zhCN": "将矿石熔炼为更为有用的物品与工具",
    "fr": "Fond les minerais en outils et objets plus utiles.",
@@ -1123,7 +1123,7 @@
  },
  {
    "Key": "BuildingDescriptionLumberMill",
-   "en": "Un mulino in grado di trasformare il legno in oggetti più utili",
+   "en": "Un mulino in grado di trasformare il legno in oggetti piu' utili",
    "es": "Fábrica que puede procesar la madera para crear tablas o papel.",
    "zhCN": "可以将木头加工成木板或者纸张的作坊",
    "fr": "Un bâtiment qui peut transformer le bois en Planches ou en Papier.",
@@ -1291,7 +1291,7 @@
  },
  {
    "Key": "BuildingDescriptionStoneMason",
-   "en": "Trasforma la pietra in oggetti più preziosi",
+   "en": "Trasforma la pietra in oggetti piu' preziosi",
    "es": "Procesa piedras para crear artículos más elaborados.",
    "zhCN": "将石头加工为更有价值的物品",
    "fr": "Transforme la pierre en objets de valeur.",
@@ -1483,7 +1483,7 @@
  },
  {
    "Key": "BuildingDescriptionMegaRecharger",
-   "en": "Ricarica massiccia con prestazioni elevate e in grado di elaborare più tipi di vetro contemporaneamente",
+   "en": "Ricarica massiccia con prestazioni elevate e in grado di elaborare piu' tipi di vetro contemporaneamente",
    "es": "Recarga masiva con alto rendimiento y puede procesar múltiples tipos de cristal simultáneamente",
    "zhCN": "具有高吞吐量的大量充电器，可以同时处理多种晶体类型",
    "fr": "Une rechargeur massif avec un haut débit et pouvant traiter plusieurs types de cristaux simultanément.",
@@ -1903,7 +1903,7 @@
  },
  {
    "Key": "BuildingLabelMarket",
-   "en": "Supermercato",
+   "en": "Mercato",
    "es": "Mercado de Comida",
    "zhCN": "食物市场",
    "fr": "Marché alimentaire",
@@ -3283,7 +3283,7 @@
  },
  {
    "Key": "CraftResultNotEnoughGold",
-   "en": "Monete insufficienti, vendi più risorse alle Case",
+   "en": "Monete insufficienti, vendi piu' risorse alle Case",
    "es": "No hay suficientes monedas, vende más recursos a las Casas",
    "zhCN": "货币不足 - 请卖更多的资源给住宅",
    "fr": "Pièces insuffisantes, vendez plus de ressources aux Maisons",
@@ -3295,7 +3295,7 @@
  },
  {
    "Key": "CraftResultNotEnoughHouses",
-   "en": "Capacità di popolazione insufficiente - Costruisci più case",
+   "en": "Capacità di popolazione insufficiente - Costruisci piu' case",
    "es": "No hay suficiente capacidad de población - construye más casas",
    "zhCN": "人口上限不足 - 请建造更多的住宅",
    "fr": "Population insuffisante, construisez plus de Maisons",
@@ -3307,7 +3307,7 @@
  },
  {
    "Key": "CraftResultNotEnoughHappiness",
-   "en": "Felicità insufficiente - vendi più beni alle Case",
+   "en": "Felicità insufficiente - vendi piu' beni alle Case",
    "es": "La felicidad no es suficiente - vende más productos a las Casas",
    "zhCN": "幸福度不足 - 请卖更多种类的商品给住宅",
    "fr": "Bonheur insuffisant, vendez plus de marchandises aux Maisons",
@@ -3319,7 +3319,7 @@
  },
  {
    "Key": "CraftResultMissingBuildingItems",
-   "en": "Ingredienti mancanti - Porta più oggetti in questo edificio",
+   "en": "Ingredienti mancanti - Porta piu' oggetti in questo edificio",
    "es": "Faltan ingredientes - Lleva más elementos a este edificio",
    "zhCN": "缺少材料 - 请为该建筑运送更多的物品",
    "fr": "Ingrédients manquant - Apportez plus d'objets à cette construction",
@@ -3331,7 +3331,7 @@
  },
  {
    "Key": "CraftResultMissingPlayerItems",
-   "en": "Ingredienti mancanti - Raccogli più oggetti nell'inventario condiviso come Base o Granai",
+   "en": "Ingredienti mancanti - Raccogli piu' oggetti nell'inventario condiviso come Base o Granai",
    "es": "Faltan ingredientes - Recoge más artículos en inventario compartido como la Base o los Graneros",
    "zhCN": "缺少材料 - 请在共享的仓库如谷仓或者基地存放更多的物品",
    "fr": "Ingrédients manquant - Collectez plus d'objets dans les stockages partagés tels que le Centre-Ville ou les Granges",
@@ -6163,7 +6163,7 @@
  },
  {
    "Key": "ItemDescriptionElementalOre",
-   "en": "Contiene potere elementare grezzo che può essere trasformato in forme più potenti",
+   "en": "Contiene potere elementare grezzo che può essere trasformato in forme piu' potenti",
    "es": "Contiene poder elemental en bruto que puede ser procesado en formas más potentes",
    "zhCN": "蕴含原始的元素能量，可以被加工成为更强力的形态",
    "fr": "Contient de l'énergie élémentaire brute qui peut être transformée en énergie.",
@@ -6775,7 +6775,7 @@
  },
  {
    "Key": "ItemDescriptionSteamTrainEngine",
-   "en": "Un veicolo che può essere utilizzato per trainare più vagoni ferroviari su tessere ferrovia. Carburante e acqua gli permetteranno di muoversi rapidamente.",
+   "en": "Un veicolo che può essere utilizzato per trainare piu' vagoni ferroviari su tessere ferrovia. Carburante e acqua gli permetteranno di muoversi rapidamente.",
    "es": "Una máquina que puede ser utilizado para tirar de varios vagones del tren de ferrocarril en los azulejos. Requiere combustible y sólo se pueden cargar y descargar en las estaciones de tren",
    "zhCN": "可以用来拉轨瓷砖多个车厢机器。需要燃料，只能在轨道交通站点加载和卸载",
    "fr": "Un véhicule qui peut être utilisé pour tirer plusieurs Wagonnets sur des Rails. Du carburant et de l'eau lui permettront de se déplacer plus rapidement. ",
@@ -6967,7 +6967,7 @@
  },
  {
    "Key": "ItemDescriptionUtilityBoostWorker",
-   "en": "Effetto dello stato dei lavoratori che li fa muovere e raccogliere molto più velocemente",
+   "en": "Effetto dello stato dei lavoratori che li fa muovere e raccogliere molto piu' velocemente",
    "es": "efecto de la condición de trabajador haciendo que se muevan y cosechar mucho más rápido",
    "zhCN": "工人状况的影响，使它们移动和收获更快",
    "fr": "Modificateur sur les travailleurs qui les oblige à se déplacer et à récolter beaucoup plus rapidement.",
@@ -7027,7 +7027,7 @@
  },
  {
    "Key": "ItemDescriptionUtilityAffinity",
-   "en": "una maggiore affinità per un tipo di risorsa comporterà la produzione di più articoli in questa posizione",
+   "en": "una maggiore affinità per un tipo di risorsa comporterà la produzione di piu' articoli in questa posizione",
    "es": "mayor afinidad por un tipo de recurso hará que se producen más artículos en esta ubicación",
    "zhCN": "资源类型更高的亲和力会导致它在这个位置产生更多项目",
    "fr": "Une plus grande affinité pour un type de ressource amènera à produire plus d'objets à cet endroit.",
@@ -7099,7 +7099,7 @@
  },
  {
    "Key": "ItemDescriptionWagon",
-   "en": "Può trasportare rapidamente più oggetti tra gli edifici, specialmente sulle strade. Ma non è possibile raccogliere risorse naturali",
+   "en": "Può trasportare rapidamente piu' oggetti tra gli edifici, specialmente sulle strade. Ma non è possibile raccogliere risorse naturali",
    "es": "Puede transportar rápidamente varios artículos entre edificios, especialmente en carreteras. Pero no puede cosechar recursos naturales.",
    "zhCN": "可以在建筑之间快速地运输，尤其是在石路上。但无法采集自然资源",
    "fr": "Peut transporter rapidement plusieurs objets entre les bâtiments, en particulier sur les routes. Mais ne peut pas récolter des ressources naturelles.",
@@ -12103,7 +12103,7 @@
  },
  {
    "Key": "MathOperatorGreaterThan",
-   "en": "Più grande di",
+   "en": "Piu' grande di",
    "es": "Mayor que",
    "zhCN": "大于",
    "fr": "Supérieur à",
@@ -12802,7 +12802,7 @@
  },
  {
    "Key": "HouseCapacityDescription",
-   "en": "(Determinato dal livello più alto del centro città)",
+   "en": "(Determinato dal livello piu' alto del centro città)",
    "es": "(Determinado por el nivel de la base)",
    "zhCN": "（由基地等级决定）",
    "fr": "(Déterminé pas le niveau du Centre-Ville)",
@@ -13162,7 +13162,7 @@
  },
  {
    "Key": "MessageCampaignNotYetAvailable",
-   "en": "Questa mappa della campagna non è stata ancora creata. Ricontrolla più tardi!",
+   "en": "Questa mappa della campagna non è stata ancora creata. Ricontrolla piu' tardi!",
    "es": "Este mapa de campaña no se ha construido todavía -, vuelva más tarde!",
    "zhCN": "此战役地图尚未建成，但 - 请稍后再回来！",
    "fr": "Cette carte de campagne n'a pas été encore créée. Revenez plus tard !",
@@ -13186,7 +13186,7 @@
  },
  {
    "Key": "MessageElixirTrades",
-   "en": "Su questa mappa, l'unico modo per ottenere Elisir è usare le stazioni di scambio. Ciò richiede lo spostamento di molte merci sulla mappa, quindi la ricerca e la costruzione di locomotive e vagoni merci renderà tutto molto più semplice!",
+   "en": "Su questa mappa, l'unico modo per ottenere Elisir è usare le stazioni di scambio. Ciò richiede lo spostamento di molte merci sulla mappa, quindi la ricerca e la costruzione di locomotive e vagoni merci renderà tutto molto piu' semplice!",
    "es": "En este mapa, la única manera de obtener elixires es utilizar Puestos Comerciales. Esto requiere mover una gran cantidad de mercancías en todo el mapa, por lo que la investigación y la construcción de locomotoras y coches ferroviarios de mercancías hará esto mucho más fácil!",
    "zhCN": "在这张地图上，以获得长生不老药的唯一方法是使用交易站。这需要把地图移动大量的商品，因此研究和建设机车和铁路货运汽车将使这更简单！",
    "fr": "Sur cette carte, la seule façon d'obtenir des élixirs est d'utiliser les comptoirs commerciaux. Pour cela, il faut déplacer beaucoup de marchandises sur la carte. La recherche et la construction de locomotives et de wagons de marchandises vous faciliteront grandement la tâche !",
@@ -13654,7 +13654,7 @@
  },
  {
    "Key": "FarmingActionDescriptionApplyWater",
-   "en": "Aggiunge acqua alla tessera fattoria, consentendo alle colture di crescere più velocemente",
+   "en": "Aggiunge acqua alla tessera fattoria, consentendo alle colture di crescere piu' velocemente",
    "es": "Añade agua a baldosas de granja, permitiendo que los cultivos crezcan mas rápido",
    "zhCN": "给农场地块浇水，使得农作物更快地成长",
    "fr": "Ajoute de l'Eau à une Tuile de ferme, permet aux cultures de pousser plus vite.",
@@ -13666,7 +13666,7 @@
  },
  {
    "Key": "FarmingActionDescriptionApplyFertilizer",
-   "en": "Aggiunge fertilizzante al quadratino Fattoria, consentendo alle colture di crescere più velocemente",
+   "en": "Aggiunge fertilizzante al quadratino Fattoria, consentendo alle colture di crescere piu' velocemente",
    "es": "Añade fertilizante a baldosas de granja, permitiendo que los cultivos crezcan mas rápido",
    "zhCN": "给农场地块施肥，使得农作物更快地成长",
    "fr": "Ajoute de l'Engrais à une Tuile de ferme, permet aux cultures de pousser plus vite.",
@@ -15351,7 +15351,7 @@
    "en": "Una mappa piatta e infinita dove ogni oggetto può essere liberamente costruito.",
    "es": "Un mapa plano e infinito donde todos los objetos pueden ser construidos libremente",
    "zhCN": "扁平的，无限地图，每一个对象可以被自由地建造。",
-   "fr": "Une carte plate et infinie où chaque objet peut être construit librement.",
+   "fr": "Une carte plate et infinie ou' chaque objet peut être construit librement.",
    "de": "Eine flache, unendliche Karte, auf der alle Objekte sofort und kostenlos gebaut werden können.",
    "pt": "Uma plana, mapa infinito, onde cada objecto pode ser construído livremente.",
    "ru": "Плоская бесконечная карта, на которой можно строить любые объекты.",
@@ -17364,7 +17364,7 @@
  },
  {
    "Key": "StructureDescriptionConveyorBelt",
-   "en": "Un nastro trasportatore più veloce realizzato con componenti in metallo pieno",
+   "en": "Un nastro trasportatore piu' veloce realizzato con componenti in metallo pieno",
    "es": "Una cinta transportadora más rápida hecha de componentes metálicos sólidos",
    "zhCN": "以固态金属建造的传送带，速度更快",
    "fr": "Un tapis roulant plus rapide, fabriqué à partir de composants métalliques robustes.",
@@ -18012,7 +18012,7 @@
  },
  {
    "Key": "StructureDescriptionLogicGate",
-   "en": "Valuta una o più connessioni di input e produce un messaggio vero (1) o falso (0) basato su un operatore booleano specificato",
+   "en": "Valuta una o piu' connessioni di input e produce un messaggio vero (1) o falso (0) basato su un operatore booleano specificato",
    "es": "Evalúa una o más conexiones de entrada y produce un verdadero (1) o falso (0) mensaje basado en un operador booleano especificado",
    "zhCN": "基于布尔运算符对输入的值进行计算，并产出“真”（1）或者“假”（0）的消息",
    "fr": "Évalue une ou plusieurs connexions d'entrée et génère un message vrai (1) ou faux (0) en fonction d'un opérateur Booléen spécifié.",
@@ -19596,7 +19596,7 @@
  },
  {
    "Key": "TownSpecialtyDescCommerce",
-   "en": "Raddoppia la velocità di consumo degli oggetti dalle Case, consente guadagni di monete molto più rapidi",
+   "en": "Raddoppia la velocità di consumo degli oggetti dalle Case, consente guadagni di monete molto piu' rapidi",
    "es": "Dobles Los artículos de velocidad son consumidos por las casas, permite ganancias de monedas mucho más rápidas",
    "zhCN": "加倍速度物品由房屋消耗，允许更快速的硬币收益",
    "fr": "Double la vitesse de consommation des objets par les maisons, permettant un gain de pièces plus rapide.",
@@ -20436,7 +20436,7 @@
  },
  {
    "Key": "TutorialStateBuildHouse_Desc",
-   "en": "Le [Case] aumentano il tuo [Limite di popolazione], permettendoti di creare più lavoratori ed edifici.",
+   "en": "Le [Case] aumentano il tuo [Limite di popolazione], permettendoti di creare piu' lavoratori ed edifici.",
    "es": "Las [Casas] incrementan tu [Capacidad de Población], Permitiendote construir mas edificios y trabajadores",
    "zhCN": "[住宅]可增加你的[人口上限]，允许你创建更多的工人和建筑。",
    "fr": "Les [Maisons] augmentent votre [Limite de population], vous permettant de créer plus de Travailleurs et de bâtiments.",
@@ -20496,7 +20496,7 @@
  },
  {
    "Key": "TutorialStateCreateWorker_Desc",
-   "en": "La Casa ha aumentato il tuo limite di popolazione!\\n\\nOra puoi costruire più [Lavoratori] per raccogliere e trasportare merci da un edificio all'altro.",
+   "en": "La Casa ha aumentato il tuo limite di popolazione!\\n\\nOra puoi costruire piu' [Lavoratori] per raccogliere e trasportare merci da un edificio all'altro.",
    "es": "¡La casa ha aumentado su límite de población! \\ N \\ nAK puede crear más [trabajadores] para cosechar y entregar productos de un edificio a otro.",
    "zhCN": "你需要大量的[工人]将货物从一个建筑运送到另一个之中。",
    "fr": "Vous aurez besoin de beaucoup de [Travailleurs] pour récolter et livrer les biens d'un bâtiment à un autre.",
@@ -20556,7 +20556,7 @@
  },
  {
    "Key": "TutorialStateBuildPath_Desc",
-   "en": "I lavoratori si muovono molto più velocemente sui percorsi.",
+   "en": "I lavoratori si muovono molto piu' velocemente sui percorsi.",
    "es": "Los trabajadores se mueven mucho más rápido en los caminos.",
    "zhCN": "工人在步道上的移动速度更快。",
    "fr": "Les Travailleurs se déplacent beaucoup plus vite sur les chemins.",
@@ -20592,7 +20592,7 @@
  },
  {
    "Key": "TutorialStepNoteWorkerCap",
-   "en": "NOTA: gli edifici di produzione richiedono una capacità di popolazione inutilizzata. Se hai già raggiunto il [Limite di popolazione], costruisci più case o elimina i lavoratori esistenti.",
+   "en": "NOTA: gli edifici di produzione richiedono una capacità di popolazione inutilizzata. Se hai già raggiunto il [Limite di popolazione], costruisci piu' case o elimina i lavoratori esistenti.",
    "es": "NOTA: Los edificios de produccion requieren capacidad de poblacion de sobra. si ya alcanzaste el [Limite de Población], construye mas casas o elimina trabajadores existentes",
    "zhCN": "提示：生产型建筑需要额外的人口上限。如果你已经达到了[人口上限]，可以选择建造更多的住宅，或者删除现存的工人。",
    "fr": "REMARQUE : Les Bâtiments de production exigent une Capacité de population supplémentaire. Si vous avez déjà atteint la [Limite de population], construisez plus de Maisons ou supprimez les Travailleurs existants.",
@@ -20604,7 +20604,7 @@
  },
  {
    "Key": "TutorialStateSelectLumberMillRecipe_Desc",
-   "en": "Gli edifici di produzione hanno spesso più ricette e puoi scegliere quali sono attive.",
+   "en": "Gli edifici di produzione hanno spesso piu' ricette e puoi scegliere quali sono attive.",
    "es": "Los edificios de produccion usualmente tienen varias recetas, y tu puedes elegir cuales estan activas.",
    "zhCN": "生产型建筑通常有多种配方，你可以选择当前要生产哪个配方。",
    "fr": "Les Bâtiments de production ont souvent plusieurs recettes et vous pouvez choisir celles qui sont actives.",
@@ -20736,7 +20736,7 @@
  },
  {
    "Key": "TutorialStepNoteHappinessDuration",
-   "en": "NOTA: oltre a guadagnare più monete, i beni di livello superiore possono produrre più [Felicità].",
+   "en": "NOTA: oltre a guadagnare piu' monete, i beni di livello superiore possono produrre piu' [Felicità].",
    "es": "NOTA: Ademas de ganar mas monedas, bienes de mayor nivel tambien mantendrar la [Felicidad] por mas tiempo.",
    "zhCN": "提示：高等级的商品不但可以赚更多的货币，还可以维持更久的[幸福度]。",
    "fr": "REMARQUE : Les marchandises de niveau supérieur procureront également du [Bonheur] plus longtemps, en plus de vous faire gagner beaucoup plus de pièces.",
@@ -20808,7 +20808,7 @@
  },
  {
    "Key": "TutorialStateBuildGrainMill_Desc",
-   "en": "[I mulini] trasformano il grano in [Farina], che può essere venduta a un prezzo più alto ed è un ingrediente in altri beni.",
+   "en": "[I mulini] trasformano il grano in [Farina], che può essere venduta a un prezzo piu' alto ed è un ingrediente in altri beni.",
    "es": "[Molinos] convierten el grano en [Harina], que puede ser vendido a un precio mayor y es un ingrediente en otros productos.",
    "zhCN": "[磨坊]可将谷物磨成[面粉]，售价更高并且还是其他货物的配方成分。",
    "fr": "Les [Moulins à nourriture] transforment le Blé en [Farine], qui peut être vendue à un prix plus élevé et constitue un ingrédient pour d'autres marchandises.",
@@ -20856,7 +20856,7 @@
  },
  {
    "Key": "TutorialStateCompleteResearch_Desc",
-   "en": "La ricerca [Lavorazione del grano] sbloccherà l'edificio [Molino per alimenti], che può trasformare il grano in [Farina] più preziosa!",
+   "en": "La ricerca [Lavorazione del grano] sbloccherà l'edificio [Molino per alimenti], che può trasformare il grano in [Farina] piu' preziosa!",
    "es": "El colegio requerira de mucho [Papel] y [Monedas] para completar la investigacion",
    "zhCN": "学校需要大量的纸张和货币来进行研究。",
    "fr": "La recherche sur le [Traitement des céréales] débloque le bâtiment [Moulin à nourriture], qui peut transformer les céréales en une [Farine] plus précieuse ! ",
@@ -20892,7 +20892,7 @@
  },
  {
    "Key": "TutorialStepDeliverPlanksToHouse",
-   "en": "Consegna più beni alla casata finché non guadagna un livello.",
+   "en": "Consegna piu' beni alla casata finché non guadagna un livello.",
    "es": "Entregue más productos a la casa hasta que gane un nivel.",
    "zhCN": "将更多的货物交给房子，直到它获得一个水平。",
    "fr": "Livrer plus de marchandises à la maison jusqu'à ce qu'elle gagne un niveau.",
@@ -20916,7 +20916,7 @@
  },
  {
    "Key": "TutorialStateBuildMarket_Desc",
-   "en": "[Mercati] venderanno automaticamente gli oggetti alle Case vicine, rendendo molto più facile guadagnare [Monete], [Punti esperienza] e [Felicità].",
+   "en": "[Mercati] venderanno automaticamente gli oggetti alle Case vicine, rendendo molto piu' facile guadagnare [Monete], [Punti esperienza] e [Felicità].",
    "es": "El [Mercado] se puede cargar con articulos, y las casas cercanas los compraran automaticamente\\n\\nEs mucho mas eficiente y conveniente que llevar los bienes a las casas individualmente.",
    "zhCN": "[市场]可以存储物品，并且附近的住宅会自动来购买。\\n\\n这要比挨家挨户单独运送要有效率的多。",
    "fr": "Les [Marchés] vendront automatiquement les biens aux maisons proches, rendant plus facile le gain de [Pièces].",
@@ -20976,7 +20976,7 @@
  },
  {
    "Key": "TutorialStateBuildGeneralGoods_Desc",
-   "en": "Un negozio di [Merci generali] può vendere automaticamente [Tavole], [Mattoni di pietra] e altri articoli di utilità, proprio come il Mercato alimentare può vendere articoli legati al cibo.",
+   "en": "Un negozio di [Merci generali] può vendere automaticamente [Assi], [Mattoni di pietra] e altri articoli di utilità, proprio come il Mercato alimentare può vendere articoli legati al cibo.",
    "es": "La tienda de [Bienes Generales] puede vender automaticamente [Tablas], [Ladrillos de Piedra], y otros items de utilidad a casas cercanas, al igual que el mercado de comida lo hace con articulos comestibles.",
    "zhCN": "[日用商品]商店可以自动向周围住宅销售[木板]，[石块]等货物，就如同食物市场销售食物相关货物一样。",
    "fr": "Un [Magasin général] peut automatiquement vendre des [Planches], des [Briques de pierre] et d'autres objets, tout comme le Marché alimentaire peut vendre des produits alimentaires.",
@@ -21048,7 +21048,7 @@
  },
  {
    "Key": "TutorialStateCreateWagon_Desc",
-   "en": "[I carri] possono spostare 4 oggetti alla volta, ma non possono raccogliere oggetti. Si muovono anche molto più velocemente su [Strade] di pietra.",
+   "en": "[I carri] possono spostare 4 oggetti alla volta, ma non possono raccogliere oggetti. Si muovono anche molto piu' velocemente su [Strade] di pietra.",
    "es": "Los [Vagones] pueden mover hasta 4 articulos a la vez, pero no pueden cosechar recursos. Tambien se mueven mucho mas rapido en [Calles] de piedra.",
    "zhCN": "[手推车]一次可以运送4个货物，但是不能采集资源。它们在[石路]上的移动速度更快。",
    "fr": "Les [Chariots] peuvent déplacer 4 objets à la fois, mais ils ne peuvent pas les récolter. Ils se déplacent également beaucoup plus rapidement sur les [Routes] en pierre.",
@@ -21180,7 +21180,7 @@
  },
  {
    "Key": "TutorialStepConnectMarketsWithRoads",
-   "en": "NOTA: puoi anche usare [Sentieri] e [Strade] per collegare i Mercati alle Case più lontane.",
+   "en": "NOTA: puoi anche usare [Sentieri] e [Strade] per collegare i Mercati alle Case piu' lontane.",
    "es": "NOTA: También puede utilizar [Caminos] y [Calles] para conectar Mercados a Casas que estén más lejos.",
    "zhCN": "注意：您还可以使用[脚路径]和[公路]市场化连接到距离较远的房屋。",
    "fr": "REMARQUE : Vous pouvez aussi utiliser les [Chemins] et les [Routes] pour connecter les Marchés aux Maisons plus lointaines.",
@@ -21252,7 +21252,7 @@
  },
  {
    "Key": "TutorialStepNoteNotEnoughHappiness",
-   "en": "NOTA: se non hai abbastanza [Felicità], costruisci più Case e riforniscile di cibo.",
+   "en": "NOTA: se non hai abbastanza [Felicità], costruisci piu' Case e riforniscile di cibo.",
    "es": "NOTA: Si no tienes suficiente [Felicidad] contruye mas casas y suministralas con alimentos",
    "zhCN": "提示：如果你的[幸福度]不足，可建造更多的住宅，并给它们提供食物。",
    "fr": "REMARQUE : Si vous n'avez pas assez de [Bonheur], construisez plus de Maisons et fournissez-leur de la nourriture.",
@@ -21276,7 +21276,7 @@
  },
  {
    "Key": "TutorialStateBuildStoneMason_Desc",
-   "en": "Nella [Casa del muratore], la pietra estratta viene utilizzata per produrre [mattoni di pietra], che vengono utilizzati in altri edifici e per costruire [strade], lungo le quali i carri si muovono molto più velocemente.",
+   "en": "Nella [Casa del muratore], la pietra estratta viene utilizzata per produrre [mattoni di pietra], che vengono utilizzati in altri edifici e per costruire [strade], lungo le quali i carri si muovono molto piu' velocemente.",
    "es": "La [Masoneria de Piedra] convertira piedra en [Ladrillos de Piedra] que pueden ser usados para construcciones avanzadas y [Calles], que les permiten a los [Vagones] ir mas rapido.",
    "zhCN": "[凿石场]会将石头转为[石块]，可用于建造更高级的建筑以及修[石路]，手推车在上面可以移动的更快。",
    "fr": "Le [Tailleur de pierre] transformera la pierre en [Brique de pierre] qui peut être utilisée pour les bâtiments avancés et les [Routes], ce qui permet aux Chariots de voyager plus rapidement.",
@@ -21312,7 +21312,7 @@
  },
  {
    "Key": "TutorialStepProvideManyItemTypes",
-   "en": "Fornire un'ampia varietà di beni a quante più case possibile.",
+   "en": "Fornire un'ampia varietà di beni a quante piu' case possibile.",
    "es": "Proporciona una amplia variedad de productos a tantas casas como sea posible.",
    "zhCN": "提供各种商品的尽可能多的房子越好。",
    "fr": "Fourni une large quantité de biens au plus grand nombre de maisons possible.",
@@ -21360,7 +21360,7 @@
  },
  {
    "Key": "TutorialStateAddWorkerToBuilding_Desc",
-   "en": "Puoi allocare i lavoratori di riserva agli edifici esistenti. Questo li farà produrre il loro output più velocemente. Puoi aumentare o diminuire in qualsiasi momento.",
+   "en": "Puoi allocare i lavoratori di riserva agli edifici esistenti. Questo li farà produrre il loro output piu' velocemente. Puoi aumentare o diminuire in qualsiasi momento.",
    "es": "Usted puede asignar trabajadores de repuesto a los edificios existentes. Esto los hará producir su salida más rápido. Puede aumentar o disminuir en cualquier momento.",
    "zhCN": "您可以分配备用工人现有的建筑物。这会让他们产生它们的输出速度更快。您可以增加或在任何时间减少。",
    "fr": "Vous pouvez assigner des Travailleurs disponibles aux bâtiments existants. Cela leur permettra de produire plus rapidement. Vous pouvez augmenter ou diminuer la valeur à n'importe quel moment.",
@@ -21732,7 +21732,7 @@
  },
  {
    "Key": "TutorialStepProvideTechLevelItems",
-   "en": "Produci abbastanza [Tavole] per sbloccare il livello tecnologico successivo",
+   "en": "Produci abbastanza [Assi] per sbloccare il livello tecnologico successivo",
    "es": "Producir suficientes [tablones] para desbloquear el siguiente nivel de tecnología",
    "zhCN": "产生足够的[木板]来解锁下一个技术水平",
    "fr": "Produire suffisamment de [Planches] pour déverouiller le prochain niveau technologique",
@@ -21780,7 +21780,7 @@
  },
  {
    "Key": "TutorialStepProvidePopulationLevelHappiness",
-   "en": "Raggiungere valori di felicità elevati sbloccherà nuovi livelli di popolazione. Ciò ti consente di costruire più case e lavoratori.",
+   "en": "Raggiungere valori di felicità elevati sbloccherà nuovi livelli di popolazione. Ciò ti consente di costruire piu' case e lavoratori.",
    "es": "Alcanzar valores de alta felicidad desbloquearán nuevos niveles de población. Esto le permite construir más casas y trabajadores.",
    "zhCN": "达到高幸福价值将解锁新的人口水平。这让您构建更多的房屋和工人。",
    "fr": "Atteindre des valeurs de bonheur élevées débloquera de nouveaux niveaux de population. Cela vous permettra de construire de nouvelles maisons et de travailleurs.",
@@ -21866,7 +21866,7 @@
  },
  {
    "Key": "TutorialStateMoveCamera_Desc",
-   "en": "Puoi spostare la fotocamera per visualizzare più parti della mappa.",
+   "en": "Puoi spostare la fotocamera per visualizzare piu' parti della mappa.",
    "es": "Puede mover la cámara para ver más partes del mapa.",
    "zhCN": "您可以移动相机以查看地图的更多部分。",
    "fr": "Vous pouvez déplacer la caméra pour voir plus de parties de la carte.",
@@ -21895,7 +21895,7 @@
    "en": "Ci sono diversi strati sotterranei in cui puoi costruire tubi per spostare vapore, fluidi e altri oggetti tra i tuoi edifici.",
    "es": "Hay varias capas subterráneas donde puede construir tubos para mover vapor, fluidos y otros elementos entre sus edificios.",
    "zhCN": "有几个地下层，您可以在建筑物之间构建管道移动蒸汽，液体和其他物品。",
-   "fr": "Il existe plusieurs couches souterraines où vous pouvez construire des tuyaux permettant le déplacement de la vapeur, des liquides, ou d'autres objets entre vos bâtiments.",
+   "fr": "Il existe plusieurs couches souterraines ou' vous pouvez construire des tuyaux permettant le déplacement de la vapeur, des liquides, ou d'autres objets entre vos bâtiments.",
    "de": "Es gibt mehrere unterirdische Schichten, in denen Sie Rohre bauen können, um Dampf, Flüssigkeiten und andere Gegenstände zwischen Ihren Gebäuden zu bewegen.",
    "pt": "Existem várias camadas subterrâneas onde você pode construir tubos para mover vapor, fluidos e outros itens entre seus edifícios.",
    "ru": "Есть несколько подземных слоев, где вы можете строить трубы для перемещения пара, жидкостей и других предметов между вашими зданиями.",
@@ -21931,7 +21931,7 @@
  },
  {
    "Key": "TutorialStatePauseGame_Desc",
-   "en": "Puoi mettere in pausa il gioco in qualsiasi momento. Ciò potrebbe rendere più semplice la costruzione o la selezione di unità di lavoratori che si muovono.",
+   "en": "Puoi mettere in pausa il gioco in qualsiasi momento. Ciò potrebbe rendere piu' semplice la costruzione o la selezione di unità di lavoratori che si muovono.",
    "es": "Puedes pausar el juego en cualquier momento. Esto puede hacer que sea más fácil de construir, o para seleccionar unidades de trabajadores que se mueven alrededor.",
    "zhCN": "您可以随时暂停游戏。这可能使构建更容易，或者选择正在移动的工作单元。",
    "fr": "Vous pouvez mettre en pause le jeu à tout moment. Cela peut vous faciliter la construction ou vous permettre de sélectionner plus facilement les unités de travailleurs en mouvement.",
@@ -21957,7 +21957,7 @@
  },
  {
    "Key": "ProTipTerrainTools",
-   "en": "Usa gli strumenti Costruisci/Terreno per appiattire il terreno se hai bisogno di più spazio per costruire.",
+   "en": "Usa gli strumenti Costruisci/Terreno per appiattire il terreno se hai bisogno di piu' spazio per costruire.",
    "es": "Usa las herramientas de Construccion / Terreno para aplanar terreno si necesitas mas espacio para construir",
    "zhCN": "使用建造/地表工具来铲平地面，可获得更多的建造空间。",
    "fr": "Utilisez les outils de Construction ou de Terrain pour aplanir le terrain si vous avez besoin d'espace pour construire.",
@@ -21984,7 +21984,7 @@
    "en": "Le fermate ferroviarie sono strutture che indicano ai carrelli ferroviari dove depositare e prelevare le merci. Vengono creati automaticamente quando si disegnano le linee ferroviarie vicino agli edifici, ma possono anche essere posizionati manualmente. Possono essere impostati come ingressi o uscite.",
    "es": "Usa Paradas de carril para desencadenar una accion automatica de recogida o entrega",
    "zhCN": "使用轨道站点来让矿车自动进行拾取或卸载操作。",
-   "fr": "Les Butées de rails sont des structures qui indiquent aux Wagonnets où déposer et ramasser des marchandises. Elles sont automatiquement créés lorsque le traçage des rails passe près des bâtiments, mais peuvent également être placées manuellement. Elles peuvent être définies comme des arrêts d'Entrée ou de Sortie.",
+   "fr": "Les Butées de rails sont des structures qui indiquent aux Wagonnets ou' déposer et ramasser des marchandises. Elles sont automatiquement créés lorsque le traçage des rails passe près des bâtiments, mais peuvent également être placées manuellement. Elles peuvent être définies comme des arrêts d'Entrée ou de Sortie.",
    "de": "Bahnhaltestellen dienen den Loren als Haltepunkte zum Be- und Entladen. Sie werden automatisch in der Nähe von Gebäuden erstellt, können aber auch manuell platziert werden. z.B. als manuellen Be- und Entladepunkt",
    "pt": "Paradas ferroviárias são estruturas que contam carrinhos ferroviários onde desistir e pegar mercadorias. Eles são criados automaticamente ao desenhar linhas ferroviárias perto de edifícios, mas também podem ser colocados manualmente. Eles podem ser definidos como pontos de entrada ou saída.",
    "ru": "Ж/д Остановки используются Вагонетками как точки погрузки / разгрузки предметов. Если вы прокладываете рельсы возле здания, то Остановка создается автоматически, но вы можете разместить её и вручную. Есть настройка режима работы остановки",
@@ -22065,7 +22065,7 @@
  },
  {
    "Key": "ProTipMultipleActiveRecipes",
-   "en": "È possibile che molti edifici producano più ricette contemporaneamente. È possibile selezionare più ricette di produzione attive con il tasto Maiusc o selezionando le caselle di commutazione della ricetta. La velocità di produzione sarà distribuita tra tutte le ricette attive.",
+   "en": "È possibile che molti edifici producano piu' ricette contemporaneamente. È possibile selezionare piu' ricette di produzione attive con il tasto Maiusc o selezionando le caselle di commutazione della ricetta. La velocità di produzione sarà distribuita tra tutte le ricette attive.",
    "es": "Puedes seleccionar multiples recetas de produccion activas con shift+clic, or marcando las casillas en la receta",
    "zhCN": "你可以通过Shift+鼠标点击选择多个同时启用的生产配方，也可以使用配方前的\\n复选框来进行设置。",
    "fr": "Certains bâtiments peuvent produire plusieurs recettes en même temps. Vous pouvez sélectionner plusieurs recettes avec Maj + Clic ou en cochant les cases des recettes. La vitesse de production sera distribuée parmi toutes les recettes (actives).",
@@ -22089,7 +22089,7 @@
  },
  {
    "Key": "ProTipCopyCursor",
-   "en": "Puoi copiare qualsiasi elemento esistente sul tuo cursore di costruzione premendo {0}. Questo rende molto più veloce il passaggio da un elemento all'altro.",
+   "en": "Puoi copiare qualsiasi elemento esistente sul tuo cursore di costruzione premendo {0}. Questo rende molto piu' veloce il passaggio da un elemento all'altro.",
    "es": "Puedes copiar cualquier articulo existente a tu cursor de construccion apretando {0}",
    "zhCN": "你可以通过使用{0}键来复制建造已经存在的任何物品。",
    "fr": "Vous pouvez copier n'importe quel élément existant sur votre curseur de construction en appuyant sur [{0}]. Cela rend beaucoup plus rapide le changement entre les éléments de construction.",
@@ -22353,7 +22353,7 @@
  },
  {
    "Key": "ProTipMarketLinkClosest",
-   "en": "Ogni Casa può essere collegata solo a 1 Mercato di ogni tipo (e fornirgli dei bonus). Se hai due tipi di mercato identici intorno a una casa, si collegherà solo al mercato più vicino, quindi considera di spostare i tuoi mercati.",
+   "en": "Ogni Casa può essere collegata solo a 1 Mercato di ogni tipo (e fornirgli dei bonus). Se hai due tipi di mercato identici intorno a una casa, si collegherà solo al mercato piu' vicino, quindi considera di spostare i tuoi mercati.",
    "es": "Cada casa se puede conectar (y otorgar una bonificacion) a 1 mercado de cada tipo. Si tienes dos mercados del mismo tipo dentro del rango de una casa, esta solo se conectara con el mercado mas cercano - asi que deberias esparcir tus mercados.",
    "zhCN": "每个房屋对于每种类型的市场只能提供1点加成。如果房屋范围内有两个同类型的市场，只有最近的那个会获得加成，因此你应该分散设置你的市场。",
    "fr": "Chaque Maison peut seulement être reliée à 1 Marché de chaque type (et lui fournir des bonus). Si vous possédez deux types de Marchés identiques autour d'une Maison, elle ne se liera qu'au Marché le plus proche - donc, pensez à éloigner vos Marchés.",
@@ -22377,7 +22377,7 @@
  },
  {
    "Key": "ProTipItemQualityTiers",
-   "en": "Ogni articolo vendibile ha un livello di qualità (I, II, III, IV, V) che è determinato dal livello di tecnologia e dai requisiti di produzione utilizzati per crearlo. Gli oggetti di alto livello di solito valgono più monete.",
+   "en": "Ogni articolo vendibile ha un livello di qualità (I, II, III, IV, V) che è determinato dal livello di tecnologia e dai requisiti di produzione utilizzati per crearlo. Gli oggetti di alto livello di solito valgono piu' monete.",
    "es": "Todos los items vendibles tienen un Grado de Calidad (I, II, III, IV, V) el cual es determinado por el nivel requerido de tecnologia y produccion usados para crearlo. Items de alto rango usualmente cuestan mas monedas.",
    "zhCN": "每个可出售的物品都有质量等级（I、II、III、IV、V），是由创造该物品所需的科技水平以及原材料所决定的。高等级的物品可以卖得更多货币。",
    "fr": "Chaque objet vendable possède un Niveau de qualité (I, II, III, IV, V) qui est déterminé par le niveau de technologie et les exigences de production pour le créer. Les objets de hauts niveaux sont généralement ceux qui rapportent de plus de pièces.",
@@ -22401,7 +22401,7 @@
  },
  {
    "Key": "ProTipMarketUpgrades",
-   "en": "Costruisci e migliora le case vicino ai tuoi mercati. Questi mercati guadagneranno ulteriore domanda di articoli di alta qualità, consentendo ai mercati di guadagnare monete più velocemente.",
+   "en": "Costruisci e migliora le case vicino ai tuoi mercati. Questi mercati guadagneranno ulteriore domanda di articoli di alta qualità, consentendo ai mercati di guadagnare monete piu' velocemente.",
    "es": "Construye y mejora Casas cerca de tus mercados. Esos mercados ganaran demanda adicional para productos de alta calidad, permitiendo a los mercados ganar monedas rapidamente.",
    "zhCN": "在市场附近建造和升级房屋，这样市场就会产生对更高质量物品的需求，使你可以更快地赚取货币。",
    "fr": "Construisez et améliorez les Maisons autour de vos Marchés. Ces Marchés obtiendront des demandes additionnelles pour des produits de haute qualité, permettant ainsi aux Marchés de gagner des pièces plus rapidement.",
@@ -22425,7 +22425,7 @@
  },
  {
    "Key": "ProTipMarketCenters",
-   "en": "Man mano che aggiorni la tua Base, sarai in grado di costruire più Mercati dello stesso tipo. Spesso puoi ottenere più Felicità costruendo ulteriori gruppi di Case e Mercati.",
+   "en": "Man mano che aggiorni la tua Base, sarai in grado di costruire piu' Mercati dello stesso tipo. Spesso puoi ottenere piu' Felicità costruendo ulteriori gruppi di Case e Mercati.",
    "es": "A medida de que mejores tu Base, podras construir multiples mercados del mismo tipo. Usualmente puedes obtener mas felicidad construyendo grupos adicionales de Casas y Mercados.",
    "zhCN": "随着基地的升级，你可以建造更多同类型的市场。市场和房屋的群落越多，幸福度指数就可能变得越高。",
    "fr": "À mesure que vous améliorerez votre Centre-Ville, vous serez capable de construire plusieurs Marchés du même type. Vous pourrez ainsi obtenir plus de bonheur en construisant plus de groupes de Maisons et de Marchés.",
@@ -22509,7 +22509,7 @@
  },
  {
    "Key": "Campaign1_IntroMessage1",
-   "en": "Alcuni coloni hanno fondato un piccolo villaggio nel deserto. Aiutalo a diventare una città più grande raccogliendo risorse, creando beni utili e costruendo case.",
+   "en": "Alcuni coloni hanno fondato un piccolo villaggio nel deserto. Aiutalo a diventare una città piu' grande raccogliendo risorse, creando beni utili e costruendo case.",
    "es": "Unos colonos han fundado un pequeño pueblo en el desierto. Ayudarla a crecer en una ciudad más grande mediante la recopilación de recursos, la elaboración de bienes útiles, y la construcción de casas.",
    "zhCN": "一些定居者成立于荒野的一个小村庄。帮助它成长为一个较大的镇通过收集资源，各具特色的实用商品，建房。",
    "fr": "Quelques colons ont fondé un petit village dans une région sauvage. Aidez-le à devenir une ville en récoltant des ressources, en fabriquant des biens utiles et en construisant des maisons.",
