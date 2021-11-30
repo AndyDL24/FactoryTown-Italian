@@ -15752,7 +15752,33 @@
    "pt": "Executado em segundo plano",
    "ru": "Запустить в фоновом режиме",
    "pt-br": "#N/A",
-   "zhTW": "在背景執行"
+   "zhTW": "在背景執行"		
+ },
+ {
+   "Key": "PrefInterfaceKeyInvertCameraX",
+   "en": "Invertire l'asse X della telecamera",
+   "es": "Invertir cámara x eje",
+   "zhCN": "反转相机X轴",
+   "fr": "Inverser l'axe X de la caméra",
+   "de": "Invertieren Sie die Kamera x-Achse",
+   "pt": "Inverter câmera X eixo",
+   "ru": "Инвертировать камеру X оси",
+   "pt-br": "",
+   "zhTW": "反轉鏡頭(X軸)",
+   "ja": "カメラのX軸を反転"
+ },
+ {
+   "Key": "PrefInterfaceKeyInvertCameraY",
+   "en": "Invertire l'asse Y della telecamera",
+   "es": "Invertir cámara y eje",
+   "zhCN": "反转相机Y轴",
+   "fr": "Inverser l'axe Y de la caméra",
+   "de": "Invertieren Sie die Kamera yachse",
+   "pt": "Inverter câmera Y eixo",
+   "ru": "Инвертировать камеру y ось Y",
+   "pt-br": "",
+   "zhTW": "反轉鏡頭(Y軸)",
+   "ja": "カメラのY軸を反転"
  },
  {
    "Key": "PrefGameplayKeyInfiniteMarkets",
@@ -21953,7 +21979,59 @@
    "ru": "Используйте кнопку [{0}], чтобы переключаться между приостановленным и непроходимым.",
    "pt-br": "",
    "zhTW": "使用[{0}]按鈕在暫停和下載之間切換。",
-   "ja": "[{0}]ボタンを使用して、一時停止と解除を切り替えます。"
+   "ja": "[{0}]ボタンを使用して、一時停止と解除を切り替えます。"																								   
+ },
+ {
+   "Key": "TutorialStateBuildConveyorBelt",
+   "en": "Costruire nastro trasportatore",
+   "es": "Construir cinta transportadora",
+   "zhCN": "打造输送带",
+   "fr": "Construire un tapis roulant",
+   "de": "Förderband bauen",
+   "pt": "Construir correia transportadora",
+   "ru": "Создать конвейерную ленту",
+   "pt-br": "",
+   "zhTW": "打造輸送帶",
+   "ja": "木のベルトコンベアを作る"
+ },
+ {
+   "Key": "TutorialStateBuildConveyorBelt_Desc",
+   "en": "Gli operai sono utili, ma Factory Town riguarda l'automazione! Usa i nastri trasportatori per spostare automaticamente gli oggetti senza un operaio.",
+   "es": "Los trabajadores son útiles, ¡pero la ciudad de Factory se trata de la automatización! Use cinturones de transporte para mover objetos alrededor automáticamente sin un trabajador.",
+   "zhCN": "工人很有用，但工厂城镇是关于自动化的！使用传送带自动在没有工人的情况下自动移动物品。",
+   "fr": "Les travailleurs sont utiles, mais Factory Town intègre aussi de l'automatisation! Utilisez des tapis roulants pour déplacer les objets aux alentours automatiquement sans travailleurs.",
+   "de": "Arbeiter sind nützlich, aber die Fabrikstadt geht um Automatisierung! Verwenden Sie Fördergurte, um Gegenstände ohne Arbeiter automatisch zu bewegen.",
+   "pt": "Os trabalhadores são úteis, mas a cidade de fábrica é sobre automação! Use cintos transportadores para mover itens automaticamente sem um trabalhador.",
+   "ru": "Рабочие полезны, но фабричный город о автоматизации! Используйте конвейерные ремни для автоматического перемещения предметов без рабочего.",
+   "pt-br": "",
+   "zhTW": "工人很有用，但工廠城鎮是關於自動化的！使用傳送帶自動在沒有工人的情況下自動移動物品。",
+   "ja": "ワーカーは役に立ちますが、 Factory Town では様々な作業を自動化できます。まずはワーカーの代わりにベルトコンベアでアイテムを輸送しましょう。"
+ },
+ {
+   "Key": "TutorialStepDrawBeltPath",
+   "en": "Clicca o trascina per creare un percorso di diversi nastri. Indirizza un nastro verso un edificio per depositare automaticamente gli oggetti.",
+   "es": "Haga clic o arrastre para crear una ruta de varias cinturones. Dirija un cinturón en un edificio para depositar automáticamente los artículos.",
+   "zhCN": "单击或拖动以创建多个带的路径。将皮带引导到建筑物中以自动存款。",
+   "fr": "Cliquez ou faites glisser pour créer un chemin de plusieurs tapis.",
+   "de": "Klicken Sie auf oder ziehen Sie, um einen Pfad mehrerer Gürtel zu erstellen. Richten Sie einen Gürtel in ein Gebäude, um Artikel automatisch einzahlen.",
+   "pt": "Clique ou arraste para criar um caminho de várias correias. Dirigir um cinto em um prédio para depositar automaticamente itens.",
+   "ru": "Нажмите или перетащите, чтобы создать путь нескольких ремней. Направьте ремень в здание для автоматического размещения предметов.",
+   "pt-br": "",
+   "zhTW": "單擊或拖動以創建多個帶的路徑。將皮帶引導到建築物中以自動存款。",
+   "ja": "クリック、またはドラッグでベルトコンベアを設置できます。"
+ },
+ {
+   "Key": "TutorialStepNoteGrabber",
+   "en": "NOTA: Una cintura posta di fronte a un edificio creerà automaticamente una [Pinza]. Questo attira gli oggetti dall'edificio al nastro.",
+   "es": "#N/A",
+   "zhCN": "注意：面向远离建筑物的皮带将自动创建一个[Grabber]。这将物品从建筑物上拉到皮带上。",
+   "fr": "REMARQUE : Un tapis roulant placé en opposition contre un bâtiment créera automatiquement une [Pince]. Elle placera les objets contenus dans le bâtiment sur le tapis.",
+   "de": "Hinweis: Ein Gürtel, der von einem Gebäude entfernt ist, erstellt automatisch einen [Grabber]. Dies zieht Gegenstände aus dem Gebäude an den Gürtel.",
+   "pt": "Nota: Um cinto colocado voltado para longe de um prédio criará automaticamente um [Grabber]. Isso puxa itens do prédio para o cinto.",
+   "ru": "Примечание: ремень, расположенный вдали от здания, автоматически создает [GRABBER]. Это тянет предметы из здания на ремень.",
+   "pt-br": "",
+   "zhTW": "注意：面向遠離建築物的皮帶將自動創建一個[Grabber]。這將物品從建築物上拉到皮帶上。",
+   "ja": "メモ：建物に隣接し離れる方向に設置したベルトコンベアには、同時にアイテムを搬出する[グラバー]も配置されます"
  },
  {
    "Key": "ProTipTerrainTools",
