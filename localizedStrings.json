@@ -74,7 +74,8 @@
    "pt": "Entrega {0} em {1}",
    "ru": "Доставлять {0} в {1}",
    "pt-br": "Entrega {0} em {1}",
-   "zhTW": "將{0}帶到{1}"
+   "zhTW": "將{0}帶到{1}",
+   "ja": "{0}を{1}に運搬"							 
  },
  {
    "Key": "FormattedHarvestItem",
@@ -86,7 +87,8 @@
    "pt": "Apanha {0}",
    "ru": "Добывать {0}",
    "pt-br": "Apanha {0}",
-   "zhTW": "收割{0}"
+   "zhTW": "收割{0}",
+   "ja": "{0}を収穫"				   
  },
  {
    "Key": "FormattedSupplyTargetWithItem",
@@ -98,7 +100,8 @@
    "pt": "Fornece {0} com {1}",
    "ru": "Снабжать здание {0} предметом {1}",
    "pt-br": "Fornece {0} com {1}",
-   "zhTW": "為{0}供應{1}"
+   "zhTW": "為{0}供應{1}",
+   "ja": "{0}を{1}に供給"						 
  },
  {
    "Key": "FormattedSupplyTargetWithEverything",
@@ -110,7 +113,8 @@
    "pt": "Fornece {0}",
    "ru": "Снабжать здание {0} всеми необходимыми предметами",
    "pt-br": "Fornece {0} com {1}",
-   "zhTW": "供應{0}"
+   "zhTW": "供應{0}",
+   "ja": "{0}を供給"					   
  },
  {
    "Key": "FormattedDeliverItem",
@@ -122,7 +126,8 @@
    "pt": "Entregar {0} ...",
    "ru": "Доставить {0}",
    "pt-br": "Entregar {0} ...",
-   "zhTW": "運送{0}..."
+   "zhTW": "運送{0}...",
+   "ja": "{0}を配送..."						  
  },
  {
    "Key": "DeliverEverything",
@@ -134,7 +139,8 @@
    "pt": "Entregar tudo",
    "ru": "Доставить всё",
    "pt-br": "Entregar tudo",
-   "zhTW": "運送所有東西"
+   "zhTW": "運送所有東西",
+   "ja": "すべてを配送"							 
  },
  {
    "Key": "FormattedDeliverItemFromTargetToTarget",
@@ -146,7 +152,8 @@
    "pt": "Entrega {0} de {1} para {2}",
    "ru": "Доставить {0} из {1} в {2}",
    "pt-br": "Entrega {0} de {1} para {2}",
-   "zhTW": "將{0}從{1}送到{2}"
+   "zhTW": "將{0}從{1}送到{2}",
+   "ja": "{0}を{1}から{2}に配送"									  
  },
  {
    "Key": "FormattedDeliverEverythingFromTargetToTarget",
@@ -158,7 +165,8 @@
    "pt": "Entrega tudo de {0} para {1}",
    "ru": "Доставлять всё из {0} в {1}",
    "pt-br": "Entrega tudo de {0} para {1}",
-   "zhTW": "將所有東西從{0}送到{1}"
+   "zhTW": "將所有東西從{0}送到{1}",
+   "ja": "{0}から{1}へすべてを配送"											
  },
  {
    "Key": "FormattedDropOffItemToTarget",
@@ -170,7 +178,8 @@
    "pt": "Larga {0} para {1}",
    "ru": "Выгрузить {0} в {1}",
    "pt-br": "Larga {0} para {1}",
-   "zhTW": "將{0}放到{1}"
+   "zhTW": "將{0}放到{1}",
+   "ja": "{0}を{1}にドロップ"								   
  },
  {
    "Key": "FormattedDropOffEverythingToTarget",
@@ -182,7 +191,8 @@
    "pt": "Larga tudo em {0}",
    "ru": "Выгрузить всё в {0}",
    "pt-br": "Larga tudo em {0}",
-   "zhTW": "將所有東西放到{0}"
+   "zhTW": "將所有東西放到{0}",
+   "ja": "{0}にすべてドロップ"									  
  },
  {
    "Key": "BehaviorTypeHarvestItem",
@@ -194,7 +204,8 @@
    "pt": "Colher",
    "ru": "Добыть",
    "pt-br": "Colher",
-   "zhTW": "收割"
+   "zhTW": "收割",
+   "ja": "収穫"				 
  },
  {
    "Key": "BehaviorTypePickUpItem",
@@ -206,7 +217,8 @@
    "pt": "Apanhar",
    "ru": "Подобрать",
    "pt-br": "Apanhar",
-   "zhTW": "撿起"
+   "zhTW": "撿起",
+   "ja": "拾う"				 
  },
  {
    "Key": "BehaviorTypeSupplyItem",
@@ -218,7 +230,8 @@
    "pt": "Fornece",
    "ru": "Запасы",
    "pt-br": "Fornece",
-   "zhTW": "供應"
+   "zhTW": "供應",
+   "ja": "供給"				 
  },
  {
    "Key": "BehaviorTypeDropOffItem",
@@ -230,7 +243,8 @@
    "pt": "Larga",
    "ru": "Выбросить",
    "pt-br": "Larga",
-   "zhTW": "放到"	 
+   "zhTW": "放到",
+   "ja": "ドロップ"					   
  },
  {
    "Key": "BehaviorTypeMoveToPosition",
@@ -255,7 +269,8 @@
    "pt": "mais próximo",
    "ru": "<укажите цель>",
    "pt-br": "mais próximo",
-   "zhTW": "最近的設施"
+   "zhTW": "最近的設施",
+   "ja": "最寄り"					
  },
  {
    "Key": "BehaviorTargetLocation",
@@ -267,7 +282,8 @@
    "pt": "localização",
    "ru": "точку",
    "pt-br": "localização",
-   "zhTW": "位置"
+   "zhTW": "位置",
+   "ja": "ロケーション"							 
  },
  {
    "Key": "BiomeTypePlainsAndRivers",
@@ -279,7 +295,8 @@
    "pt": "Planícies e rios",
    "ru": "Равнины и реки",
    "pt-br": "Planícies e rios",
-   "zhTW": "平原與河流"
+   "zhTW": "平原與河流",
+   "ja": "平原と河川"						  
  },
  {
    "Key": "BiomeTypeMountainLakes",
@@ -291,7 +308,8 @@
    "pt": "Montanhas e Rios",
    "ru": "Горные озёра",
    "pt-br": "Montanhas e Rios",
-   "zhTW": "高山湖泊"
+   "zhTW": "高山湖泊",
+   "ja": "山岳湖"					
  },
  {
    "Key": "BiomeTypePlateaus",
@@ -303,7 +321,8 @@
    "pt": "planaltos",
    "ru": "Плоскогорья",
    "pt-br": "planaltos",
-   "zhTW": "高原"
+   "zhTW": "高原",
+   "ja": "台地"				 
  },
  {
    "Key": "BiomeTypeEmpty",
@@ -315,7 +334,8 @@
    "pt": "Esvaziar",
    "ru": "Без предустановок",
    "pt-br": "Esvaziar",
-   "zhTW": "空地"
+   "zhTW": "空地",
+   "ja": "空き地"					
  },
  {
    "Key": "BiomeTypeVolcanicIslands",
@@ -327,7 +347,8 @@
    "pt": "Ilhas vulcânicas",
    "ru": "Вулканические острова",
    "pt-br": "Ilhas vulcânicas",
-   "zhTW": "火山群島"
+   "zhTW": "火山群島",
+   "ja": "火山諸島"					   
  },
  {
    "Key": "BiomeTypeArchipelago",
@@ -339,7 +360,8 @@
    "pt": "Arquipélago",
    "ru": "Архипелаг",
    "pt-br": "Arquipélago",
-   "zhTW": "島嶼"
+   "zhTW": "島嶼",
+   "ja": "列島"				 
  },
  {
    "Key": "BiomeTypeSuperFlat",
@@ -351,7 +373,8 @@
    "pt": "Plano",
    "ru": "Равнины",
    "pt-br": "Plano",
-   "zhTW": "平地"
+   "zhTW": "平地",
+   "ja": "平地"				 
  },
  {
    "Key": "BiomeTypeCraters",
@@ -363,7 +386,8 @@
    "pt": "Crateras",
    "ru": "Кратеры",
    "pt-br": "Crateras",
-   "zhTW": "隕石坑"
+   "zhTW": "隕石坑",
+   "ja": "クレーター"						  
  },
  {
    "Key": "BiomeTypeDesertCliffs",
@@ -375,7 +399,8 @@
    "pt": "Penhascos do deserto.",
    "ru": "Пустынные cкалы",
    "pt-br": "Penhascos do deserto.",
-   "zhTW": "沙漠懸崖"
+   "zhTW": "沙漠懸崖",
+   "ja": "砂漠の崖"					   
  },
  {
    "Key": "BiomeTypeFoothillCanyons",
@@ -387,7 +412,8 @@
    "pt": "Canyons do Foothill.",
    "ru": "Горные ущелья",
    "pt-br": "Canyons do Foothill.",
-   "zhTW": "山腳峽谷"
+   "zhTW": "山腳峽谷",
+   "ja": "峡谷のふもと"							 
  },
  {
    "Key": "BiomeTypeGrandCanyons",
@@ -400,6 +426,7 @@
    "ru": "Великие каньоны",
    "pt-br": "Grand Canyons.",
    "zhTW": "大峽谷"
+   "ja": "グランドキャニオン",									  
  },
  {
    "Key": "BiomeTypeHighFoothills",
@@ -411,7 +438,8 @@
    "pt": "Foothills",
    "ru": "Предгорье",
    "pt-br": "Foothills",
-   "zhTW": "高原山麓"
+   "zhTW": "高原山麓",
+   "ja": "山ろく地帯"			  
  },
  {
    "Key": "BiomeTypeHighRidges",
@@ -423,7 +451,8 @@
    "pt": "Cumes.",
    "ru": "Горные хребты",
    "pt-br": "Cumes.",
-   "zhTW": "高聳山脊"
+   "zhTW": "高聳山脊",
+   "ja": "分水嶺"					
  },
  {
    "Key": "BiomeTypeIslands",
@@ -435,7 +464,8 @@
    "pt": "Ilhas.",
    "ru": "Острова",
    "pt-br": "Ilhas.",
-   "zhTW": "群島"
+   "zhTW": "群島",
+   "ja": "島々"				 
  },
  {
    "Key": "BiomeTypeLakeland",
@@ -447,7 +477,8 @@
    "pt": "Lakeland.",
    "ru": "Озера",
    "pt-br": "Lakeland.",
-   "zhTW": "湖地"
+   "zhTW": "湖地",
+   "ja": "湖水地方"					   
  },
  {
    "Key": "BiomeTypeSwampForest",
@@ -459,7 +490,8 @@
    "pt": "Floresta do pântano",
    "ru": "Болотистые леса",
    "pt-br": "Floresta do pântano",
-   "zhTW": "沼澤森林"
+   "zhTW": "沼澤森林",
+   "ja": "湿地林"					
  },
  {
    "Key": "InvalidReasonAccessPointBlocked",
@@ -471,7 +503,8 @@
    "pt": "Saída Bloqueada",
    "ru": "Выход заблокирован",
    "pt-br": "Saída Bloqueada",
-   "zhTW": "輸出被擋住"
+   "zhTW": "輸出被擋住",
+   "ja": "ブロックされた出力"									  
  },
  {
    "Key": "InvalidReasonAgentCanNotHarvest",
@@ -483,7 +516,8 @@
    "pt": "Este Trabalhador nao pode apanhar este item",
    "ru": "Рабочий не может добыть этот элемент",
    "pt-br": "Este Trabalhador nao pode apanhar este item",
-   "zhTW": "該名工人不能收割那個東西"
+   "zhTW": "該名工人不能收割那個東西",
+   "ja": "ワーカーはそのアイテムを収穫できません"																	
  },
  {
    "Key": "InvalidReasonAgentCanNotPlant",
@@ -495,7 +529,8 @@
    "pt": "Apenas os trabalhadores podem plantar",
    "ru": "Сажать могут только Рабочие",
    "pt-br": "Apenas os trabalhadores podem plantar",
-   "zhTW": "只有工人才能種植"
+   "zhTW": "只有工人才能種植",
+   "ja": "ワーカーだけが植えられます"												  
  },
  {
    "Key": "InvalidReasonAlreadyFull",
@@ -507,7 +542,8 @@
    "pt": "já completa",
    "ru": "Уже заполнено",
    "pt-br": "já completa",
-   "zhTW": "已經滿了"
+   "zhTW": "已經滿了",
+   "ja": "既にいっぱいです"								   
  },
  {
    "Key": "InvalidReasonBuildingBlocked",
@@ -519,7 +555,8 @@
    "pt": "Obra bloqueada",
    "ru": "Здание заблокировано",
    "pt-br": "Obra bloqueada",
-   "zhTW": "建築被擋住"
+   "zhTW": "建築被擋住",
+   "ja": "建物がブロックされています"									  
  },
  {
    "Key": "InvalidReasonCanNotAfford",
@@ -531,7 +568,8 @@
    "pt": "Recursos insuficientes, entregue mais na base ou no armazém",
    "ru": "Не хватает ресурсов в Общем инвентаре",
    "pt-br": "Recursos insuficientes, entregue mais na base ou no armazém",
-   "zhTW": "資源不足，請向城鎮或倉庫放入更多的資源"
+   "zhTW": "資源不足，請向城鎮或倉庫放入更多的資源",
+   "ja": "資源が不足しています。町の中心または倉庫に資源を保管してください。"																						  
  },
  {
    "Key": "InvalidReasonCanNotNavigate",
@@ -543,7 +581,8 @@
    "pt": "Não é possível navegar",
    "ru": "Невозможно добраться",
    "pt-br": "Não é possível navegar",
-   "zhTW": "找不到路"
+   "zhTW": "找不到路",
+   "ja": "ナビゲートできません"										 
  },
  {
    "Key": "InvalidReasonCanNotTargetResource",
@@ -555,7 +594,8 @@
    "pt": "Não pode apontar a recursos",
    "ru": "Невозможно найти ресурс",
    "pt-br": "Não pode apontar a recursos",
-   "zhTW": "無法定位資源"
+   "zhTW": "無法定位資源",
+   "ja": "資源をターゲットできません"												  
  },
  {
    "Key": "InvalidReasonInvalidBuildingAttach",
@@ -567,7 +607,8 @@
    "pt": "Tem de anexar a um edifício valido",
    "ru": "Необходимо присоединить к правильному зданию",
    "pt-br": "Tem de anexar a um edifício valido",
-   "zhTW": "必須與有效的建築相連"
+   "zhTW": "必須與有效的建築相連",
+   "ja": "有効な建物にアタッチする必要があります"																	
  },
  {
    "Key": "InvalidReasonInvalidPath",
@@ -579,7 +620,8 @@
    "pt": "Não pode atravessar",
    "ru": "Неправильный путь",
    "pt-br": "Não pode atravessar",
-   "zhTW": "路徑無效"
+   "zhTW": "路徑無效",
+   "ja": "通過できません"	
  },
  {
    "Key": "InvalidReasonIsSupportingOtherEntity",
@@ -591,7 +633,8 @@
    "pt": "Está a suportar outra entidade",
    "ru": "Поддерживает другой объект",
    "pt-br": "Está a suportar outra entidade",
-   "zhTW": "正在支撐其他物體"
+   "zhTW": "正在支撐其他物體",
+   "ja": "他のものを支えています"										
  },
  {
    "Key": "InvalidReasonNotEnoughPopulation",
@@ -603,7 +646,8 @@
    "pt": "Insuficiente capacidade de população - Construa ou melhore mais casas",
    "ru": "Превышен Лимит населения. Постройте дополнительные Дома или улучшите существующие",
    "pt-br": "Insuficiente capacidade de população - Construa ou melhore mais casas",
-   "zhTW": "人口上限不足 - 請建造或升級更多的房屋"
+   "zhTW": "人口上限不足 - 請建造或升級更多的房屋",
+   "ja": "人口収容量が足りません。住宅を増やすかレベルアップしてください。"																									   
  },
  {
    "Key": "InvalidReasonNotEnoughHouseCapacity",
@@ -615,7 +659,8 @@
    "pt": "Insuficiente capacidade de casas - Melhore a base",
    "ru": "Превышен Лимит построенных зданий. Необходимо улучшить Городской центр",
    "pt-br": "Insuficiente capacidade de casas - Melhore a base",
-   "zhTW": "房屋數量上限不足 - 請升級城鎮"
+   "zhTW": "房屋數量上限不足 - 請升級城鎮",
+   "ja": "住宅上限に達しています。人口レベルを増やしてください。"																							
  },
  {
    "Key": "InvalidReasonMaxBuildingCountReached",
@@ -627,7 +672,8 @@
    "pt": "Número máximo deste tipo foi construído",
    "ru": "Построено максимальное количество зданий этого типа",
    "pt-br": "Número máximo deste tipo foi construído",
-   "zhTW": "已達到這種類型的最大數量"
+   "zhTW": "已達到這種類型的最大數量",
+   "ja": "建設数が最大に達しています"											  
  },
  {
    "Key": "InvalidReasonNotRollableItem",
@@ -639,7 +685,8 @@
    "pt": "Nao é possivel dar roll neste item",
    "ru": "Этот предмет невозможно перекатывать по Желобу",
    "pt-br": "Nao é possivel dar roll neste item",
-   "zhTW": "不是一個可滾動的物品"
+   "zhTW": "不是一個可滾動的物品",
+   "ja": "転がすことができるアイテムではありません"																	   
  },
  {
    "Key": "InvalidReasonNeedsSupportBlock",
@@ -651,7 +698,8 @@
    "pt": "É necessario um bloco de apoio",
    "ru": "Нужен опорный блок",
    "pt-br": "É necessario um bloco de apoio",
-   "zhTW": "需要有可支撐的底部"
+   "zhTW": "需要有可支撐的底部",
+   "ja": "支えるブロックが必要です"											   
  },
  {
    "Key": "InvalidReasonOccupied",
@@ -663,7 +711,8 @@
    "pt": "Ocupado",
    "ru": "Занято",
    "pt-br": "Ocupado",
-   "zhTW": "已被佔用"
+   "zhTW": "已被佔用",
+   "ja": "占有されています"							   
  },
  {
    "Key": "InvalidReasonRequiredSupportsAreOccupied",
@@ -675,7 +724,8 @@
    "pt": "Blocos de apoio bloqueados",
    "ru": "Требуемая опора заблокирована",
    "pt-br": "Blocos de apoio bloqueados",
-   "zhTW": "所需要的支撐被擋住"
+   "zhTW": "所需要的支撐被擋住",
+   "ja": "支えが必要なため、ブロックされています"																	
  },
  {
    "Key": "InvalidReasonRequiresSeaLevel",
@@ -687,7 +737,8 @@
    "pt": "Só pode ser colocado abaixo do nivel do mar",
    "ru": "Можно разместить только под водой",
    "pt-br": "Só pode ser colocado abaixo do nivel do mar",
-   "zhTW": "只能放置於海平面之下"
+   "zhTW": "只能放置於海平面之下",
+   "ja": "海面下にしか設置できません"												  
  },
  {
    "Key": "InvalidReasonRequiresTerrain",
@@ -699,7 +750,8 @@
    "pt": "Só pode ser colocado em terra",
    "ru": "Можно разместить только на земле",
    "pt-br": "Só pode ser colocado em terra",
-   "zhTW": "只能放置於地面"
+   "zhTW": "只能放置於地面",
+   "ja": "地面にしか設置できません"											   
  },
  {
    "Key": "InvalidReasonRequiresTriggerTarget",
@@ -711,7 +763,8 @@
    "pt": "Clique num bloco sobreposto",
    "ru": "Выберите целевой блок",
    "pt-br": "Clique num bloco sobreposto",
-   "zhTW": "點選指定一個覆蓋方塊"
+   "zhTW": "點選指定一個覆蓋方塊",
+   "ja": "オーバーレイブロックをターゲットクリック"																	   
  },
  {
    "Key": "InvalidReasonRequiresFarmTile",
@@ -723,7 +776,8 @@
    "pt": "Só pode ser colocado num campo da fazenda",
    "ru": "Можно разместить только на Полях Фермы",
    "pt-br": "Só pode ser colocado num campo da fazenda",
-   "zhTW": "只能放置於農場地塊上"
+   "zhTW": "只能放置於農場地塊上",
+   "ja": "農業タイルにだけ設置できます"													 
  },
  {
    "Key": "InvalidReasonRequiresTreePlanter",
@@ -735,7 +789,8 @@
    "pt": "Só pode ser colocado num plantador de Árvore",
    "ru": "Можно разместить только в Посадочном контейнере",
    "pt-br": "Só pode ser colocado num plantador de Árvore",
-   "zhTW": "只能放置於樹木種植機上"
+   "zhTW": "只能放置於樹木種植機上",
+   "ja": "ツリープランターにだけ設置できます"															  
  },
  {
    "Key": "InvalidReasonRequiresMineShaft",
@@ -747,7 +802,8 @@
    "pt": "só pode prospectar minérios dentro de poços de minas",
    "ru": "Проводить геологоразведку можно только в Шахтах",
    "pt-br": "só pode prospectar minérios dentro de poços de minas",
-   "zhTW": "只能對礦井內的礦石探礦"
+   "zhTW": "只能對礦井內的礦石探礦",
+   "ja": "坑道内の鉱石のみ調査できます"													 
  },
  {
    "Key": "InvalidReasonSteepTerrain",
@@ -759,7 +815,8 @@
    "pt": "Terreno muito inclinado",
    "ru": "Неровная поверхность",
    "pt-br": "Terreno muito inclinado",
-   "zhTW": "地面過於陡峭"
+   "zhTW": "地面過於陡峭",
+   "ja": "地形が急すぎます"							   
  },
  {
    "Key": "InvalidReasonTargetBlockedByWater",
@@ -771,7 +828,8 @@
    "pt": "Bloqueado por água",
    "ru": "Цель блокируется водой",
    "pt-br": "Bloqueado por água",
-   "zhTW": "目標被水擋住了"
+   "zhTW": "目標被水擋住了",
+   "ja": "ターゲットは水面によってブロックされています"																			 
  },
  {
    "Key": "InvalidReasonTargetNotCompatibleWithAction",
@@ -783,7 +841,8 @@
    "pt": "Alvo inompatível",
    "ru": "Действие не совместимо с целью",
    "pt-br": "Alvo inompatível",
-   "zhTW": "目標不相容"
+   "zhTW": "目標不相容",
+   "ja": "適用できないターゲットです"												  
  },
  {
    "Key": "InvalidReasonUnevenTerrain",
@@ -795,7 +854,8 @@
    "pt": "Não pode construir em terreno irregular",
    "ru": "Нельзя строить на неровной местности",
    "pt-br": "Não pode construir em terreno irregular",
-   "zhTW": "無法在不平坦的地面建造"
+   "zhTW": "無法在不平坦的地面建造",
+   "ja": "凹凸のある地形には建てられません"														   
  },
  {
    "Key": "InvalidReasonTerrainNotPurchasedYet",
@@ -807,7 +867,8 @@
    "pt": "Terreno ainda não adquirido",
    "ru": "Территория еще не приобретена",
    "pt-br": "Terreno ainda não adquirido",
-   "zhTW": "尚未購買該土地"
+   "zhTW": "尚未購買該土地",
+   "ja": "未購入の土地です"							   
  },
  {
    "Key": "InvalidReasonNoChuteDropoff",
@@ -819,7 +880,8 @@
    "pt": "Só pode largar no inicio/fim das calhas",
    "ru": "Можно положить только на конечную точку Желоба",
    "pt-br": "Só pode largar no inicio/fim das calhas",
-   "zhTW": "只能放置在滑道的端點位置"
+   "zhTW": "只能放置在滑道的端點位置",
+   "ja": "シュートの終点にのみドロップできます"																 
  },
  {
    "Key": "InvalidReasonRequiresOmniPlanter",
@@ -831,7 +893,8 @@
    "pt": "só pode colocar em OmniPlanter",
    "ru": "Можно разместить только на Инкубаторе минералов",
    "pt-br": "só pode colocar em OmniPlanter",
-   "zhTW": "只可用於神力種植機"
+   "zhTW": "只可用於神力種植機",
+   "ja": "オムニプランターにのみ置くことができます"																	   
  },
  {
    "Key": "InvalidReasonRequiresShallowWater",
@@ -843,7 +906,8 @@
    "pt": "só pode ser colocado em água rasa",
    "ru": "Можно разместить только на мелководье",
    "pt-br": "só pode ser colocado em água rasa",
-   "zhTW": "只能放置在淺水中"
+   "zhTW": "只能放置在淺水中",
+   "ja": "浅瀬にのみ設置できます"											
  },
  {
    "Key": "InvalidReasonStorageBuildingNotEmpty",
@@ -855,7 +919,8 @@
    "pt": "Não é possível mover edifícios de armazenamento a menos que eles estão vazios",
    "ru": "Нельзя перемещать Хранилище, пока в нем есть предметы",
    "pt-br": "Não pode mover edifícios de armazenamento a menos que estejam vazios",
-   "zhTW": "無法移動儲存的建築，除非它們是空的"
+   "zhTW": "無法移動儲存的建築，除非它們是空的",
+   "ja": "空になっていない限り、倉庫を移動することはできません。"																							
  },
  {
    "Key": "InvalidReasonInvalidTerrain",
@@ -867,7 +932,8 @@
    "pt": "Incompatíveis tipo de terreno",
    "ru": "Несовместимый тип почвы",
    "pt-br": "Incompatíveis tipo de terreno",
-   "zhTW": "不兼容的地形類型"
+   "zhTW": "不兼容的地形類型",
+   "ja": "親和性がない地形タイプです"												  
  },
  {
    "Key": "InvalidReasonUndergroundTerrain",
@@ -879,7 +945,8 @@
    "pt": "Não pode construir subterrâneo",
    "ru": "Не может строить метро",
    "pt-br": "Não pode construir subterrâneo",
-   "zhTW": "不能建造在地表下"
+   "zhTW": "不能建造在地表下",
+   "ja": "地下には建設できません"											
  },
  {
    "Key": "BuildingDescriptionAirshipDock",
@@ -891,7 +958,8 @@
    "pt": "Permite Dirigíveis para transferir seus bens muito mais rapidamente",
    "ru": "Позволяет дирежаблям быстрее доставлять товары",
    "pt-br": "Permite Dirigíveis para transferir seus bens muito mais rapidamente",
-   "zhTW": "飛艇可以更迅速地搬動更多的貨物"
+   "zhTW": "飛艇可以更迅速地搬動更多的貨物",
+   "ja": "飛行船によってより速く商品を輸送できるようになります"																						 
  },
  {
    "Key": "BuildingDescriptionBakery",
@@ -903,7 +971,8 @@
    "pt": "Produz uma variadade de bons alimentos cozinhados",
    "ru": "Производит разнообразные ценные продукты питания",
    "pt-br": "Produz uma variadade de bons alimentos cozinhados",
-   "zhTW": "生產多種有用的烹飪食品"
+   "zhTW": "生產多種有用的烹飪食品",
+   "ja": "バラエティーに富んだ料理を提供します"																 
  },
  {
    "Key": "BuildingDescriptionBarn",
@@ -915,7 +984,8 @@
    "pt": "Fornece armazenamento partilhado que os jogadores podem usar quando colocam construções e tabalhadores",
    "ru": "Складское здание с четырьмя ячейками хранения. Филиал Общего инвенаря",
    "pt-br": "Fornece armazenamento partilhado que os jogadores podem usar quando colocam construções e tabalhadores",
-   "zhTW": "提供可儲存物品的共享倉庫，以供在建造建築與擺放工人時使用"
+   "zhTW": "提供可儲存物品的共享倉庫，以供在建造建築與擺放工人時使用",
+   "ja": "共有ストレージを提供します。配置されたアイテムはすべて、構築およびアップグレードするために使用できます。"																																									   
  },
  {
    "Key": "BuildingDescriptionBase",
@@ -927,7 +997,8 @@
    "pt": "Base com grande armazenamento. Os items aqui colocados podem ser usados pelo jogador para construir ou melhorar edificios",
    "ru": "Главное здание с огромным хранилищем. Любые предметы, расположенные здесь, могут быть использованы для строительства и улучшений",
    "pt-br": "Base com grande armazenamento. Os items aqui colocados podem ser usados pelo jogador para construir ou melhorar edificios",
-   "zhTW": "提供大量庫存容量的主基地，在這裡存放的物品可被用於建造與升級"
+   "zhTW": "提供大量庫存容量的主基地，在這裡存放的物品可被用於建造與升級",
+   "ja": "沢山のアイテムを保管できる町の中心。保管されたアイテムは建築やアップグレードのために使用できます。"																																							  
  },
  {
    "Key": "BuildingDescriptionCrate",
@@ -939,7 +1010,8 @@
    "pt": "Oferece armazenamento basico para armazenar items.Não envia items automaticamente para as calhas.",
    "ru": "Место для хранения предметов одного типа. Не имеет выводов на путепроводы",
    "pt-br": "Oferece armazenamento basico para armazenar items.Não envia items automaticamente para as calhas.",
-   "zhTW": "提供較小容量的儲存物品空間，不會自動輸出到滑道"
+   "zhTW": "提供較小容量的儲存物品空間，不會自動輸出到滑道",
+   "ja": "アイテムを保管できる木箱。保管アイテムをシュートに自動で出力することはできません。"																																	  
  },
  {
    "Key": "BuildingDescriptionCrusher",
@@ -951,7 +1023,8 @@
    "pt": "Extrai éter a partir de pedras elementais",
    "ru": "Извлекает эфир из Камней стихии и создает Эсенцию",
    "pt-br": "Extrai éter a partir de pedras elementais",
-   "zhTW": "把元素礦石打碎成元素碎片"
+   "zhTW": "把元素礦石打碎成元素碎片",
+   "ja": "元素の鉱石からエーテルを抽出します"															  
  },
  {
    "Key": "BuildingDescriptionDiffuser",
@@ -963,7 +1036,8 @@
    "pt": "Fornece uma saída da rede de Mana onde items são devolvidos para o mundo, em geral, para que possam ser recarregadas",
    "ru": "Извлекает предметы из сети Манопровода, возвращая их в мир. Как правило, используется для перезарядки кристаллов",
    "pt-br": "Fornece uma saída da rede de Mana onde items são devolvidos para o mundo, em geral, para que possam ser recarregadas",
-   "zhTW": "提供魔力管線的出口，供物品返回原狀進行充能等操作"
+   "zhTW": "提供魔力管線的出口，供物品返回原狀進行充能等操作",
+   "ja": "マナグリッドからの出口となり、マナ結晶を物質世界に戻します。枯渇したマナ結晶は再チャージできます。"																																							  
  },
  {
    "Key": "BuildingDescriptionEnchantedForge",
@@ -975,7 +1049,8 @@
    "pt": "Processa itens mágicos usando calor e pressão",
    "ru": "Создаёт магические предметы, используя тепло и давление",
    "pt-br": "Processa itens mágicos usando calor e pressão",
-   "zhTW": "使用熱力與壓力來加工附魔物品"
+   "zhTW": "使用熱力與壓力來加工附魔物品",
+   "ja": "熱と圧力を駆使して魔法のアイテムを生産します"																			 
  },
  {
    "Key": "BuildingDescriptionEnchanter",
@@ -987,7 +1062,8 @@
    "pt": "Imbui energia mágica em itens para produzir bens de produção avançada e medicamentos",
    "ru": "Наполняет предметы магической энергией, создавая из них ценные товары и медицинские препараты",
    "pt-br": "Imbui energia mágica em itens para produzir bens de produção avançada e medicamentos",
-   "zhTW": "把魔力注入物品以製造更為高級的商品與藥品"
+   "zhTW": "把魔力注入物品以製造更為高級的商品與藥品",
+   "ja": "アイテムへ魔法のエネルギーを注入して、高価なグッズや医薬品を生産します。"																													   
  },
  {
    "Key": "BuildingDescriptionExtractor",
@@ -999,7 +1075,8 @@
    "pt": "Envia Cristais de Mana na grade de Mana por tubos para que possam ser canalizada ao redor para alimentar várias estruturas",
    "ru": "Отправляет Кристаллы Маны в сеть Манопровода, для обеспечения энергией различных зданий",
    "pt-br": "Envia Cristais de Mana na grade de Mana por tubos para que possam ser canalizada ao redor para alimentar várias estruturas",
-   "zhTW": "把魔力結晶送入魔力管線以將其傳送到不同的建築中去"
+   "zhTW": "把魔力結晶送入魔力管線以將其傳送到不同的建築中去",
+   "ja": "マナ結晶をマナグリッドに送ります"														   
  },
  {
    "Key": "BuildingDescriptionFarm",
