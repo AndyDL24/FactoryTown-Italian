@@ -1,5 +1,7 @@
 # Traduzione-Factory-Town
-Traduzione del gioco Factory Town 
+Traduzione del gioco Factory Town
+
+![alt text](https://github.com/AndyDL24/FactoryTown-Italian/blob/main/FactoryTownITA.jpg?raw=true)
 
 Traduzione completa del gioco, se riscontrate qualche tipo di errore non esitate a creare una issues qui sopra grazie, o dalla guida su steam.
 Cercherò di aggiornarla il più velocemente possibile, basta seguirmi qui o su steam per essere sempre aggionati.
