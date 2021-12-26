@@ -5000,7 +5000,20 @@
    "pt": "diagrama",
    "ru": "Чертёж",
    "pt-br": "diagrama",
-   "zhTW": "藍圖"
+   "zhTW": "藍圖"							  
+ },
+ {
+   "Key": "FileTypeMapGenSettings",
+   "en": "Generatore di mappe",
+   "es": "Generador de mapas",
+   "zhCN": "地图生成器",
+   "fr": "Générateur de carte",
+   "de": "Kartengenerator",
+   "pt": "Gerador de mapa",
+   "ru": "Генератор карты",
+   "pt-br": "",
+   "zhTW": "地圖生成器",
+   "ja": "マップジェネレータ"
  },
  {
    "Key": "FileSourceLocalFiles",
