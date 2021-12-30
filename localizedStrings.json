@@ -361,7 +361,7 @@
    "ru": "Архипелаг",
    "pt-br": "Arquipélago",
    "zhTW": "島嶼",
-   "ja": "列島"				 
+   "ja": "列島"		 
  },
  {
    "Key": "BiomeTypeSuperFlat",
@@ -425,8 +425,8 @@
    "pt": "Grand Canyons.",
    "ru": "Великие каньоны",
    "pt-br": "Grand Canyons.",
-   "zhTW": "大峽谷"
-   "ja": "グランドキャニオン",									  
+   "zhTW": "大峽谷",
+   "ja": "グランドキャニオン"								  
  },
  {
    "Key": "BiomeTypeHighFoothills",
