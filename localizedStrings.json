@@ -11200,6 +11200,22 @@
    "zhTW": "增量"
  },
  {
+   "Key": "LogicMessageTypeDecrement",
+   "en": "Decremento",
+   "es": "Decremento",
+   "zhCN": "减少",
+   "fr": "Décrément",
+   "de": "Abnahme",
+   "pt": "Diminuição",
+   "ru": "Уменьшение",
+   "pt-br": "Diminuição",
+   "zhTW": "減少",
+   "ja": "デクリメント",
+   "tr": "#N/A",
+   "cz": "#N/A",
+   "it": "Decremento"
+ },
+ {
    "Key": "LogicMessageTypeReset",
    "en": "Ripristina",
    "es": "Reiniciar",
@@ -15619,6 +15635,22 @@
    "tr": "#N/A",
    "cz": "#N/A",
    "it": "Acquistare"
+ },
+ {
+   "Key": "IsPrimaryStorage",
+   "en": "È la memoria primaria",
+   "es": "Es el almacenamiento principal",
+   "zhCN": "是主要存储",
+   "fr": "Est le stockage principal",
+   "de": "Ist Hauptspeicher",
+   "pt": "É o armazenamento primário",
+   "ru": "Является основным хранилищем",
+   "pt-br": "É o armazenamento primário",
+   "zhTW": "是主要存儲",
+   "ja": "プライマリストレージです",
+   "tr": "#N/A",
+   "cz": "#N/A",
+   "it": "È la memoria primaria"
  },
  {
    "Key": "MenuFunctionNewGame",
