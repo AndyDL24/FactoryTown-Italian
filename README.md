@@ -10,8 +10,8 @@ Cercherò di aggiornarla il più velocemente possibile, basta seguirmi qui o su 
 Per scaricare la traduzione basta andare sul pulsante "code" poi selezionare il .zip e scaricare il file sul proprio computer.
 
 # Come installare la traduzione.
-Per installare la traduzione basta estrarre il file .zip sul vostro pc anche sul desktop, poi copiare il file localizedStrings.json e incollare il file all'interno della cartella del gioco, più precisamente in: \steamapps\common\Factory Town\Factory Town_Data\StreamingAssets
-Sostituire il file esistente con quello scaricato una volta copiato all'interno di questa cartella basterà entrare nel gioco ed il cambio della lingua sarà automatico.
+Per installare la traduzione basta estrarre il file .zip sul vostro pc anche sul desktop, poi copiare il file localizedStrings.json e Factory Town Localization - localizedString.tsv e incollare i file all'interno della cartella del gioco, più precisamente in: \steamapps\common\Factory Town\Factory Town_Data\StreamingAssets
+Sostituisci i file esistenti con quelli scaricati una volta copiati all'interno di questa cartella basterà entrare nel gioco ed il cambio della lingua sarà automatico.
 
 Buon divertimento
 
