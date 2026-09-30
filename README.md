@@ -25,8 +25,8 @@ file e rifare la stessa procedura indicata sopra. Oppure sulla mia guida di stea
 "add file" poi "upload file" caricare il file come indicato e inserire il titolo e la descrizione delle modifiche e il gioco è fatto(dovrete attendeere la mia approvazione ovviamente).
 
 # Come posso ringraziati?
-Se vuoi ringraziarmi potresti fare una piccola donazione(anche un caffè) con paypal su questo sito:
-https://ko-fi.com/andyd24
+Se vuoi ringraziarmi potresti fare una piccola donazione(anche un caffè) con paypal su questo sito: </br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2RKY9S)
 
 Ringrazio tutti in anticipo.
 
