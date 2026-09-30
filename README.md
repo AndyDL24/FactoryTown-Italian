@@ -26,7 +26,7 @@ file e rifare la stessa procedura indicata sopra. Oppure sulla mia guida di stea
 
 # Come posso ringraziati?
 Se vuoi ringraziarmi potresti fare una piccola donazione(anche un caffè) con paypal su questo sito:
-https://streamelements.com/andyd24/tip
+Ko-fi.com/andyd24
 
 Ringrazio tutti in anticipo.
 
